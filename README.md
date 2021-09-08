@@ -1,0 +1,1 @@
+区别于InnoDB_In_Detail这里只记录MySQL Server层的理解
